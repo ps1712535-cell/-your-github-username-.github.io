@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mental Health Awareness & Support Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="main-header">
+    <h1>Mental Health Awareness & Support Hub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="articles.html">Articles</a>
+      <a href="support.html">Get Support</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Your safe space for emotional wellness, learning, and support</h2>
+      <p>Explore trusted resources, connect with supportive communities, and start your journey toward better mental well-being.</p>
+      <a href="articles.html" class="btn">Explore Resources</a>
+    </section>
+
+    <section class="features">
+      <div class="feature-box">
+        <h3>Educate Yourself</h3>
+        <p>Read expert-written articles to understand stress, anxiety, and more.</p>
+      </div>
+      <div class="feature-box">
+        <h3>Find Support</h3>
+        <p>Access professional help and connect with peer support groups.</p>
+      </div>
+      <div class="feature-box">
+        <h3>Self-Help Tools</h3>
+        <p>Use guided exercises and reflection tools to manage your wellness.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mental Health Awareness & Support Hub | Promoting Wellness & Understanding</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About | Mental Health Awareness Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="main-header">
+    <h1>About Our Hub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="articles.html">Articles</a>
+      <a href="support.html">Get Support</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main style="padding: 2em;">
+    <h2>Our Mission</h2>
+    <p>The Mental Health Awareness & Support Hub is an initiative designed to spread awareness, provide education, and connect individuals with professional and peer-based mental wellness support.  
+    It was built using Agile methodology to ensure continuous improvement through sprints and user feedback.</p>
+  </main>
+
+  <footer>
+    <p>© 2025 Mental Health Awareness & Support Hub</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact | Mental Health Awareness Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="main-header">
+    <h1>Contact Us</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="articles.html">Articles</a>
+      <a href="support.html">Get Support</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main style="padding: 2em;">
+    <section>
+      <h2>We’re Here to Listen</h2>
+      <p>If you have questions, need guidance, or want to share feedback, please fill out the form below. Your message is confidential and will receive a timely response.</p>
+
+      <form class="contact-form" action="#" method="post">
+        <label for="name">Full Name:</label>
+        <input type="text" id="name" name="name" required>
+
+        <label for="email">Email Address:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="message">Your Message:</label>
+        <textarea id="message" name="message" rows="6" placeholder="Write your message here..." required></textarea>
+
+        <button type="submit" class="btn">Send Message</button>
+      </form>
+    </section>
+
+    <section class="contact-details">
+      <h3>Other Contact Options</h3>
+      <p>Email: <a href="mailto:support@mentalhub.org">support@mentalhub.org</a></p>
+      <p>Hotline: +1 (800) 555-1234</p>
+      <p>Location: 101 Mindful Way, Saskatoon, SK, Canada</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mental Health Awareness & Support Hub | You Are Not Alone</p>
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Support | Mental Health Awareness Hub</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="main-header">
+    <h1>Get Support</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="articles.html">Articles</a>
+      <a href="support.html">Get Support</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main style="padding: 2em;">
+    <h2>Professional Support</h2>
+    <p>Find trusted support networks and helplines for immediate or ongoing help.</p>
+
+    <div class="support-list">
+      <div class="support-card">
+        <h3>Canadian Mental Health Association</h3>
+        <p>National network dedicated to promoting mental wellness, advocacy, and accessible services.</p>
+        <a href="https://cmha.ca" target="_blank" class="btn">Visit Website</a>
+      </div>
+
+      <div class="support-card">
+        <h3>Kids Help Phone</h3>
+        <p>Free, confidential 24/7 e-mental health service supporting young people across Canada.</p>
+        <a href="https://kidshelpphone.ca" target="_blank" class="btn">Visit Website</a>
+      </div>
+
+      <div class="support-card">
+        <h3>Wellness Together Canada</h3>
+        <p>Online portal offering self-assessments, peer support, and therapy programs.</p>
+        <a href="https://www.wellnesstogether.ca" target="_blank" class="btn">Visit Website</a>
+      </div>
+    </div>
+
+    <section style="margin-top: 2em;">
+      <h2>Crisis Emergency</h2>
+      <p>If you or someone you know is in crisis, please call **988** (Suicide Crisis Helpline) or visit your nearest emergency department.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mental Health Awareness & Support Hub | Find Help, Find Hope</p>
+  </footer>
+</body>
+</html>
